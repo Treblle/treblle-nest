@@ -128,8 +128,8 @@ Here are some ways of contributing to making Treblle better:
 
 ### Contributors
 <!-- Replace link with the link of the SDK contributors-->
-<a href="https://github.com/Treblle/treblle-sails/graphs/contributors">
+<a href="https://github.com/Treblle/treblle-nest/graphs/contributors">
   <p align="center">
-    <img  src="https://contrib.rocks/image?repo=Treblle/treblle-sails" alt="A table of avatars from the project's contributors" />
+    <img  src="https://contrib.rocks/image?repo=Treblle/treblle-nest" alt="A table of avatars from the project's contributors" />
   </p>
 </a>
