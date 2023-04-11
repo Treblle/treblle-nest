@@ -1,0 +1,20 @@
+{
+  "name": "@treblle/nest",
+  "version": "0.0.1",
+  "description": "The official Treblle SDK for Nest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Treblle/treblle-nest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Treblle/treblle-nest/issues"
+  },
+  "homepage": "https://github.com/Treblle/treblle-nest#readme"
+}
